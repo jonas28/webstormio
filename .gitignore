@@ -1,0 +1,15 @@
+### WebStorm ###
+
+## Directory-based project format:
+
+.idea/
+
+## Bower
+
+bower_components/
+.bower-cache/
+.bower-registry/
+.bower-tmp/
+
+## NPM
+node_modules/
